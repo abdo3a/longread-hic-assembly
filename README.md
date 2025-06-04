@@ -68,6 +68,7 @@ nextflow run nf-core/longread-hic-assembly -profile standard \
 
 ## 📂 Output Structure
 
+````bash
 results/
 ├── qc/
 │ ├── longreads/
@@ -86,9 +87,10 @@ results/
 │ └── merqury/
 └── reports/
 └── multiqc_report.html
-
+````
 ## 🧱 Module Structure
 
+````bash
 workflow/
 ├── main.nf
 ├── nextflow.config
@@ -114,4 +116,4 @@ workflow/
 ├── busco.nf
 ├── quast.nf
 ├── merqury.nf
-
+````
