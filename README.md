@@ -27,6 +27,7 @@ nextflow run nf-core/longread-hic-assembly -profile standard \
   --genome_size "3.1g" \
   --platform "ont" \
   --outdir "results"
+````
 
 ## 📁 Input Parameters
 
