@@ -1,0 +1,1 @@
+process fastp { script: 'fastp -i R1 -I R2 -o trimmed_R1 -O trimmed_R2' }

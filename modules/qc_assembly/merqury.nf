@@ -1,0 +1,1 @@
+process merqury { script: 'merqury.sh kmer_db.fa assembly.fasta merqury_out' }

@@ -1,0 +1,1 @@
+process nanoplot { input: file reads; output: file '*.html'; script: 'NanoPlot --fastq $reads' }

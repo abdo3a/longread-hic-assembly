@@ -1,0 +1,1 @@
+process juicer { script: 'juicer.sh ...' }

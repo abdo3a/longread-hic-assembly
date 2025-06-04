@@ -1,0 +1,1 @@
+process medaka { script: 'medaka_consensus -i input -d draft -o medaka_out' }

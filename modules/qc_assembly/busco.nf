@@ -1,0 +1,1 @@
+process busco { script: 'busco -i input.fasta -o busco_out -l lineage' }

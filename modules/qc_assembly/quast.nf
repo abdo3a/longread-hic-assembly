@@ -1,0 +1,1 @@
+process quast { script: 'quast.py input.fasta -o quast_out' }

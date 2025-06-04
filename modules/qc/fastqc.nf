@@ -1,0 +1,1 @@
+process fastqc { input: file reads; output: file '*_fastqc.html'; script: 'fastqc $reads' }

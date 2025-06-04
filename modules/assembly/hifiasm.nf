@@ -1,0 +1,1 @@
+process hifiasm { input: file reads; output: file 'assembly.fasta'; script: 'hifiasm -o asm $reads' }

@@ -1,0 +1,1 @@
+process yahs { script: 'yahs assembly.fasta hic.bam -o scaffolds' }

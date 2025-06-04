@@ -1,0 +1,1 @@
+process bwa { script: 'bwa mem ref.fa R1 R2 > aln.sam' }

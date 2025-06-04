@@ -1,0 +1,1 @@
+process flye { input: file reads; output: file 'assembly.fasta'; script: 'flye --nano-raw $reads -o flye_out' }
