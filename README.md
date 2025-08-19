@@ -1,3 +1,4 @@
+![status](https://img.shields.io/badge/status-under_development-orange)
 # longread-hic-assembly
 
 A robust and scalable **Nextflow pipeline** for **genome assembly** and **Hi-C-based chromosome scaffolding** using **long reads (ONT or PacBio)** and **Hi-C data**.
