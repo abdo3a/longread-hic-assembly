@@ -21,7 +21,7 @@ This pipeline performs:
 ## 🔧 Usage
 
 ```bash
-nextflow run nf-core/longread-hic-assembly -profile standard \
+nextflow run longread-hic-assembly/main.nf -profile standard \
   --reads_long "data/longreads/*.fastq.gz" \
   --reads_hic_R1 "data/hic/*_R1.fastq.gz" \
   --reads_hic_R2 "data/hic/*_R2.fastq.gz" \
